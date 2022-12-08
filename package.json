@@ -22,7 +22,7 @@
     "@angular/router": "^6.0.3",
     "core-js": "^2.5.4",
     "cors": "^2.8.4",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "formidable": "^1.2.1",
     "primeicons": "^1.0.0-beta.10",
     "rxjs": "^6.3.3",
